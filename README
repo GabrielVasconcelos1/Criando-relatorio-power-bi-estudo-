@@ -1,0 +1,48 @@
+# Power-bi-Analyst---DIO
+
+Criação de relatório Power BI
+
+
+## Índice
+
+- [Sobre](#sobre)
+- [Tipo de Exercício](#tipo-de-exercício)
+- [Local de Realização](#local-de-realização)
+- [Minhas Impressões](#minhas-impressões)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Aplicativo Utilizado](#aplicativo-utilizado)
+- [Como Usar](#como-usar)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
+
+## Sobre
+
+Desenvolvimento de um relatório elaborado utilizando o Power BI, baseado nos dados de exemplo "Sample Financials" fornecidos pelo Power BI.
+
+## Tipo de Exercício
+
+Projeto de análise de dados e visualização de informações com uso intensivo de Power BI.
+
+## Local de Realização
+
+Curso online oferecido pela plataforma Digital Innovation One (DIO).
+
+## Minhas Impressões
+
+Este exercício foi desafiador e muito enriquecedor. Aprendi a estruturar relatórios no Power BI, utilizar botões de navegação para melhor navegabilidade, aplicar segmentadores de dados, e publicar o relatório no Power BI Service. A experiência me proporcionou uma compreensão mais profunda das ferramentas de visualização de dados e da criação de relatórios interativos, agregou muito em conhecimento.
+
+## Tecnologias Utilizadas
+
+- Linguagens de Programação: DAX (Data Analysis Expressions)
+- Ferramentas e Aplicativos: 
+  - Power BI Desktop
+  - Power BI Service
+  - GitHub (para hospedar os arquivos de dados)
+
+## Aplicativo Utilizado
+
+- Power BI Desktop para a criação do relatório.
+- Power BI Service para a publicação e compartilhamento do relatório.
+
+
+Relatório desenvolvido por Gabriel Nunes Silva Vasconcelos .
